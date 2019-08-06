@@ -74,8 +74,7 @@
   </dependencies>
 </plugin>
 ```
-* in terms of technology, thin is
-in terms of technology, thin is defined below
+* in terms of technology, thin is defined below
 ```
 Skinny – Contains ONLY the bits you literally type into your code editor, and NOTHING else.
 Thin – Contains all of the above PLUS the app’s direct dependencies of your app (db drivers, utility libraries, etc).
