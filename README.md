@@ -5,7 +5,7 @@
 
 ## Configuration
 - Function configuratoin
-  + put class name at function.name in application.propertiesn, and first letter of function name has to be uppercase 
+  + put class name at function.name in application.propertiesn, and first letter of function name has to be lowercase 
   + class has to be implemented by java.util.function.Functio
   + since it's running by Spring boot, this class has to have component annotation
 - SpringBootRequestHandler configuratoin
