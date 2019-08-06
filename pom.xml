@@ -86,7 +86,7 @@
 				<artifactId>maven-jar-plugin</artifactId>
 			</plugin>
 
-			<!-- ? -->
+			<!-- make this jar thin -->
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
