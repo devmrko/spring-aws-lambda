@@ -5,8 +5,8 @@
 
 ## Configuration
 - Function configuratoin
-  + put class name at function.name in application.properties
-  + class has to be implemented by java.util.function.Function
+  + put class name at function.name in application.propertiesn, and first letter of function name has to be uppercase 
+  + class has to be implemented by java.util.function.Functio
   + since it's running by Spring boot, this class has to have component annotation
 - SpringBootRequestHandler configuratoin
   + aws lambda actually appoint this class
